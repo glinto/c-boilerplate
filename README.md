@@ -1,4 +1,4 @@
-# C boilerplate
+# C boilerplate with unit tests
 
 ## Toolchain
 
